@@ -1,10 +1,9 @@
 hola mundo
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim 
-veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea 
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate 
-velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat 
-cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id 
-est laborum.
+1,-o give you an idea of the breadth of how users utilize Python to 
+automate 
+2,- tasks, here are some common ways that Python automation is used:
+3,-Sending out, replying to, and sorting emails.
+4,-Filling out PDFs and Excel files.
+
